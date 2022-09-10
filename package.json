@@ -1,0 +1,26 @@
+{
+  "name": "webpack-compile-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader to compile module's output string as code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirKalmykov/webpack-compile-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "compile",
+    "loader"
+  ],
+  "author": "Vladimir Kalmykov <vladimirkalmykovdev@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": ">=3.0.0"
+  },
+  "dependencies": {
+    "loader-utils": "2"
+  }
+}
