@@ -1,6 +1,6 @@
 {
   "name": "webpack-compile-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Webpack loader to compile module's output string as code",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Vladimir Kalmykov <vladimirkalmykovdev@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "webpack": ">=3.0.0"
+    "webpack": ">=5.0.0"
   },
   "dependencies": {
     "loader-utils": "2"
